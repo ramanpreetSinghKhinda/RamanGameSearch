@@ -1,10 +1,7 @@
 # RamanGameSearch
-Video Game Search App that searches a video game database with a search string that the user inputs.
+Video Game Search App that searches for video games from popular a video game database using Giant Bomb API
 
 You can download a working signed apk of this app [here](https://github.com/ramanpreetSinghKhinda/RamanGameSearch/blob/master/app/Raman_Game_Search.apk?raw=true)
-
-#### App Description
-Search and view items from the popular video game database using Giant Bomb API
 
 #### Screenshots
 ![main_search](https://github.com/ramanpreetSinghKhinda/RamanGameSearch/blob/master/screenshots/1.png)
@@ -47,5 +44,6 @@ Search and view items from the popular video game database using Giant Bomb API
 Ramanpreet Singh Khinda (rkhinda@buffalo.edu)</br>
 
 Watch my digital resume here (Its more than just a resume. Doubt it? Just watch it...)
+
 http://prezi.com/gpxiyxfnops8/?utm_campaign=share&utm_medium=copy&rc=ex0share
 
