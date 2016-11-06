@@ -40,6 +40,10 @@ You can download a working signed apk of this app [here](https://github.com/rama
 * [Parceler](https://github.com/johncarl81/parceler)
 
 
+#### Credits
+Internet - which provided me every kind of help whenever I got stuck :)
+
+
 #### Developer
 Ramanpreet Singh Khinda (ramanpreetSinghKhinda@gmail.com)</br>
 
