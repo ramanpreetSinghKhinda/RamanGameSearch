@@ -41,7 +41,7 @@ You can download a working signed apk of this app [here](https://github.com/rama
 
 
 #### Developer
-Ramanpreet Singh Khinda (rkhinda@buffalo.edu)</br>
+Ramanpreet Singh Khinda (ramanpreetSinghKhinda@gmail.com)</br>
 
 Watch my digital resume here (Its more than just a resume. Doubt it? Just watch it...)
 
